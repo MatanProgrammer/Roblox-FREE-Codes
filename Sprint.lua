@@ -1,4 +1,4 @@
--- Make sure to put this script in StarterPlayer -> StarterPlayerScripts
+-- Make sure to put this LOCAL script in StarterPlayer -> StarterPlayerScripts
 
 local Players = game:GetService("Players")
 local UserInputService = game:GetService("UserInputService")
